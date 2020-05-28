@@ -20,3 +20,5 @@
   - nuxt.js
     - vue init nuxt-community/koa-template <project name>
     - --update-binary
+    - mounted server-render pall on ,you must use asyncdata() to get async data from server
+    - use --exec babel-node at scripts compatibility es6 import 
